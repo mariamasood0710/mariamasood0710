@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mariamasood0710
 - 👀 I’m interested in content writing 
-- 🌱 I’m currently learning literature and anaylytics
-- 💞️ I’m looking to collaborate on content writing 
+- 🌱 I’m currently learning literature and analytics
 - 📫 contact me on my email i220710@nu.edu.pk
 
 <!---
