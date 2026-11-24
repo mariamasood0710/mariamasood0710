@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @mariamasood0710
-- 👀 I’m interested in content writing 
-- 🌱 I’m currently learning literature and analytics
-- 📫 contact me on my email i220710@nu.edu.pk
+# Maria Masood
 
-<!---
-mariamasood0710/mariamasood0710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Business Analytics graduate (2026) | Business Data Analyst | Dubai, UAE
+
+Business Analytics graduate (2026) from FAST National University of Computer and Emerging Sciences, Islamabad. I turn business and operational data into clear dashboards, reports and insights.
+
+## Skills
+**Data and BI:** SQL, Power BI (DAX, Power Query), Advanced Excel, Python (Pandas, Matplotlib, Seaborn)
+**AI and NLP:** Sentiment analysis, topic modelling, prompt engineering, LLM function calling, RAG
+**Other:** Database design, statistical analysis, data cleaning, reporting
+
+## Contact
+Email: mariamasood091@gmail.com
+LinkedIn: https://www.linkedin.com/in/maria-masood-640088271/
